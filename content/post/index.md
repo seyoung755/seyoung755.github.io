@@ -1,5 +1,5 @@
 ---
-emoji: 🧢
+emoji: 
 title: Getting Started
 date: '2024-02-14 21:50:00'
 author: seyeong
@@ -12,3 +12,6 @@ categories: tutorial
 
 ### 본문
 본문입니다
+![alt text](image.png)
+
+![alt text](image-1.png)
