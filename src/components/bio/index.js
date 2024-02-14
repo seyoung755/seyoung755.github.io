@@ -14,7 +14,7 @@ function Bio({ author, language = 'ko' }) {
           <p className="title">
             안녕하세요.
             <br />
-            {bio.role} <strong>{name}</strong>입니다.
+            <strong>오리역 개발자</strong>입니다.
             <br />
           </p>
           <div className="social-links">
