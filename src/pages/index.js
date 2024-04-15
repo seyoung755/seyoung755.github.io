@@ -59,7 +59,6 @@ export const pageQuery = graphql`
           name
           bio {
             role
-            description
             thumbnail
           }
           social {
